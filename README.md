@@ -75,7 +75,7 @@ Open This PC → confirm the new D: drive is visible
 
 ### 📸 Screenshot 
 
-![DiskVerify](Disk_Verify_ThisPC.png)
+![DiskVerify](Disk_Verify.png)
 
 5) (Optional) Remove the Partition
 
