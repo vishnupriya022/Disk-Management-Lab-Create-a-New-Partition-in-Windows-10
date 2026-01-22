@@ -24,7 +24,10 @@ Press Windows key (or Right-click Start) → choose Disk Management
 
 Or press Windows + R, type diskmgmt.msc, press Enter
 
-📸 Screenshot:  !(screenshots/DiskMgmt_Open.png)
+### 📸 Screenshot
+
+![DiskMgmt](screenshots/DiskMgmt_Open.png)
+
 
 2) Shrink a Volume to Make Unallocated Space
 
@@ -34,7 +37,9 @@ Enter shrink size (e.g., 20000 MB = 20 GB) → Click Shrink
 
 You will see a black block labelled Unallocated
 
-📸 Screenshot:  !(screenshots/Disk_Shrunk.png)
+### 📸 Screenshot
+
+![Diskshrunk](screenshots/Disk_Shrunk.png)
 
 3) Create a New Partition (New Simple Volume)
 
@@ -54,16 +59,23 @@ Volume label: e.g., Data
 
 Check Quick Format → Finish
 
-📸 Screenshot: !(screenshots/Disk_NewVolumeWizard.png)
+### 📸 Screenshot
 
-📸 Screenshot: !(screenshots/Disk_AssignedDrive.png)
+![DiskNewVolumeWizard](screenshots/Disk_NewVolumeWizard.png)
+
+
+### 📸 Screenshot
+
+![DiskAssigned](screenshots/Disk_AssignedDrive.png)
 
 
 4) Verify in File Explorer
 
 Open This PC → confirm the new D: drive is visible
 
-📸 Screenshot: Disk_Verify_ThisPC.png
+### 📸 Screenshot 
+
+![DiskVerify](Disk_Verify_ThisPC.png)
 
 5) (Optional) Remove the Partition
 
