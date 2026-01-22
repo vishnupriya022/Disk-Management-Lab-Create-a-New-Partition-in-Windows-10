@@ -24,7 +24,7 @@ Press Windows key (or Right-click Start) → choose Disk Management
 
 Or press Windows + R, type diskmgmt.msc, press Enter
 
-📸 Screenshot: DiskMgmt_Open.png
+📸 Screenshot:  !(screenshots/DiskMgmt_Open.png)
 
 2) Shrink a Volume to Make Unallocated Space
 
@@ -34,7 +34,7 @@ Enter shrink size (e.g., 20000 MB = 20 GB) → Click Shrink
 
 You will see a black block labelled Unallocated
 
-📸 Screenshot: Disk_Shrunk.png
+📸 Screenshot:  !(screenshots/Disk_Shrunk.png)
 
 3) Create a New Partition (New Simple Volume)
 
@@ -54,9 +54,9 @@ Volume label: e.g., Data
 
 Check Quick Format → Finish
 
-📸 Screenshot: Disk_NewVolumeWizard.png
+📸 Screenshot: !(screenshots/Disk_NewVolumeWizard.png)
 
-📸 Screenshot: Disk_AssignedDrive.png
+📸 Screenshot: !(screenshots/Disk_AssignedDrive.png)
 
 
 4) Verify in File Explorer
@@ -82,4 +82,3 @@ Assigned a drive letter and formatted with NTFS
 
 Verified new drive in File Explorer
 
-📌 This skill is important for IT Support roles when setting up user storage, backups, and troubleshooting disk issues.
